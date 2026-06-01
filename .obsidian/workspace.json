@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Getting Started"
             }
           }
         ]
@@ -216,8 +216,8 @@
   "active": "8cab1f639c6175c7",
   "lastOpenFiles": [
     "Installation.md",
-    "Getting Started.md",
     "README.md",
+    "Getting Started.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
