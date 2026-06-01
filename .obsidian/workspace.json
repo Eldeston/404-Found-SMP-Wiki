@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "9bacd8cb471e5a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "520fe10ba634fd56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cab1f639c6175c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1776b8396d85733a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0ead86d68c16de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bef5fff3a2fde0a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd36176f980a58c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6fdaaa35269556b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "30cd0d9ae5a340a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b73ee9f4ffcfa69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb1cac418322c06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Digital Storytelling Index"
+            }
+          },
+          {
+            "id": "ffd3ed8cc34f9302",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Digital Storytelling Index"
+            }
+          },
+          {
+            "id": "c14697c9e0d2680f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b31c7080901e0ae6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Digital Storytelling Index"
+            }
+          },
+          {
+            "id": "b959631496e7c4b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "55701a43d22fab89",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "56e4f4473d4aa0ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Digital Storytelling Index"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8cab1f639c6175c7",
+  "lastOpenFiles": [
+    "Installation.md",
+    "Getting Started.md",
+    "README.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 16 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Ideas.md",
+    "Untitled.base",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 12 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 18 - Emerging Technologies 1.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 14 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 17 - Creative Industry Challenges.md",
+    "Important/Clash of Champions 2026 - BSU x MATI Collab eSports.md",
+    "Creative Computing Club/Chess.md",
+    "Creative Computing Club/Computing Department Day Judges.md",
+    "Creative Computing Club/Computing Department Day v1.0.md",
+    "Creative Computing Club/Computing Department Day v4.0.md",
+    "Creative Computing Club/Computing Department Day Winners.md",
+    "Creative Computing Club/Landscape 16_9.png",
+    "Creative Computing Club/Frame 1.png",
+    "Creative Computing Club/SMP",
+    "Year 1 - CC L4 Cohort 1 & 2.pdf",
+    "Year 1 - Semester 1/Sem 1 Morning 2024-25 TIMETABLES.pdf",
+    "Year 1 - Semester 1/Sem 1 Evening 2024-25 TIMETABLES.pdf",
+    "Important/Progression Policy October 2023 - Metaverse.pdf",
+    "Year 2 - Semester 2/2 - Creative Industry/Documents/Pasted image 20260409124934.png",
+    "Year 2 - Semester 2/2 - Creative Industry/Documents",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.png",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.svg",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents",
+    "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/rayquaza.jpg",
+    "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/jirachi.jpg",
+    "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/deoxys.jpg",
+    "Creative Computing Club/Pasted image 20251104123154.png",
+    "Creative Computing Club/Pasted image 20251104130534.png",
+    "Year 2 - Semester 1/2 - Game Engine & Scripting/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

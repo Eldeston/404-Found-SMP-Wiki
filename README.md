@@ -1,2 +1,4 @@
-# smp404found.github.io
-Dedicated 
+# 404 Found SMP Wiki
+
+[Installation](Installation.md)
+[Getting Started](Getting%20Started.md)
